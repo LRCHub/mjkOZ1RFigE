@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "メフィスト",
+  "base_artist": "女王蜂",
+  "createdAt": "2025-12-07T09:43:11.015876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メフィスト - Oshi No Ko (City Pop Version)",
+      "artist": "LMR City Pop",
+      "has_synced": true,
+      "path": "select/01_メフィスト_-_Oshi_No_Ko_(City_Pop_Version)_LMR_City_Pop.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/02_メフィスト_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メフィスト(off vocal ver.)",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/03_メフィスト(off_vocal_ver.)_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メフィスト (Paused)",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/04_メフィスト_(Paused)_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メフィスト - Mephisto",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/05_メフィスト_-_Mephisto_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メフィスト",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/06_メフィスト_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "【LIVE】メフィスト - 天音かなた cover【hololive】",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/07_【LIVE】メフィスト_-_天音かなた_cover【hololive】_天音かなた.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メフィスト",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_メフィスト_女王蜂.txt"
+    }
+  ]
+}
